@@ -1,4 +1,4 @@
-## Hi, I'm Adrian Nagel (officially Karim Alkama)
+## Hi, I'm Karim Alkama
 
 - I've been learning to code using Python via [Boot.dev](https://boot.dev/)'s Back-end Developer Path since early 2026
 - I like to practice by solving [Advent of Code](https://adventofcode.com/) puzzles
