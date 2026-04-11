@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi, I'm Adrian Nagel (officially Karim Alkama)
+
+- I've been learning to code using Python via [Boot.dev](https://boot.dev/)'s Back-end Developer Path since early 2026
+- I like to practice by solving [Advent of Code](https://adventofcode.com/) puzzles
 
 <!--
 **TaniksB/TaniksB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
