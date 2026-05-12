@@ -1,7 +1,9 @@
 ## Hi, I'm Karim Alkama
 
 - I've been learning to code using Python via [Boot.dev](https://boot.dev/)'s Back-end Developer Path since early 2026
-- I practice algorithms by solving [Advent of Code](https://adventofcode.com/) puzzles
+
+- I have several small personal projects that I'm working on (see pinned repositories)
+- I plan to add more features and expand these as I learn more on Bootdev and from other sources
 
 <!--
 **TaniksB/TaniksB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
