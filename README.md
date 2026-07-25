@@ -2,7 +2,7 @@
 
 [LeetCode](https://leetcode.com/u/TaniksB/)
 
-[CodeWars](https://www.codewars.com/users/TaniksB)
+[Codewars](https://www.codewars.com/users/TaniksB)
   
 
 <!--
