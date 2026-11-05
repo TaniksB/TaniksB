@@ -1,3 +1,5 @@
+Apprentice @ [synyx](https://synyx.de/)
+
 [Boot.dev](https://boot.dev/)
 
 [LeetCode](https://leetcode.com/u/TaniksB/)
